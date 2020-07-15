@@ -7,3 +7,6 @@ letting us move back and forth through time.
 
 For example, in this first version of the file we
 will say that the cat goes crazy.
+
+This is line 3
+
